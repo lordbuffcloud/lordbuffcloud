@@ -1,0 +1,13 @@
+discord.py
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-anthropic
+langchain-groq
+langchain-huggingface
+langchain-google-genai
+pydantic
+openai
+httpx
+tenacity
