@@ -14,6 +14,16 @@ Hello! I'm a seasoned **Software and Machine Learning Engineer** with over **18 
 
 Beyond engineering, I'm also a **graffiti artist** who loves to merge creativity with technology. I'm passionate about leveraging tech to optimize life, approaching challenges with a clean and pragmatic mindset, and executing projects with a modern flair.
 
+## 🚀 Current Projects
+
+Here are some of the exciting projects I'm currently working on:
+
+1. **[BASE](https://github.com/lordbuffcloud/base.git)**
+   - Base Layout Analyzer tool that allows users to upload images, PDFs, or Word documents containing base layouts or maps.
+     Backend creates COA based on AI fine tuned on base design best practices. Users chat with agents.
+   - Key technologies used: [glxy], [React], [Python]
+
+Feel free to check out these projects and provide any feedback or contributions!
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedinusername) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/lordbuffcloud) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/occultmystagogue) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/occultmystagogue) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=x&logoColor=white)](https://x.com/kingcris)
