@@ -35,9 +35,11 @@ Some of many projects that I've done over the years:
    - Uncensored CLI discord bot
    - Key technologies used: [Discord-App], [Python]
 
-1. **[Ewok-Feedback](https://github.com/lordbuffcloud/ewok_feedback.git)**
-   - VoiceFlow feedback flow that sends responses to discord.
-   - Key technologies used: [VoiceFlow], [HTML]
+2. **[Ewok-Feedback](https://github.com/lordbuffcloud/wingz.git)**
+   - Wingz powered by LLM to take a zipcode and find the best wingz in areas using MATH to set a score based on rating and price.
+   - Key technologies used: [Python]
+  
+3. **[Wingz](https://github.com/lordbuffcloud/ewok_feedback.git)**
 
 Feel free to check out these projects and provide any feedback or contributions!
 ## 🌐 Socials:
