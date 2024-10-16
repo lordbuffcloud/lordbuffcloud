@@ -31,21 +31,25 @@ Here are some of the exciting projects I'm currently working on:
 
 ## 🚀 Some completed projects
 
-Some of many projects that I've done over the years:
+Some of the many projects that I've completed over the years:
 
+   **[silent-auction](https://github.com/lordbuffcloud/silent-auction.git)**
+
+[![Silent Auction APP](https://img.youtube.com/vi/_iSklAEk6Knw/0.jpg)](https://www.youtube.com/watch?v=_iSklAEk6Knw)
+  
    - [Acquisitions Assist](https://acquisitions.ngrok.dev/)
      
    - [Cyber Threat Intel Scraper](https://cis.ngrok.app/)
      
-1. **[open-glxy](https://github.com/lordbuffcloud/open-glxy.git)**
+  **[open-glxy](https://github.com/lordbuffcloud/open-glxy.git)**
    - Uncensored CLI discord bot
    - Key technologies used: [Discord-App], [Python]
 
-2. **[Wingz](https://github.com/lordbuffcloud/wingz.git)**
+  **[Wingz](https://github.com/lordbuffcloud/wingz.git)**
    - Wingz powered by LLM to take a zipcode and find the best wingz in areas using MATH to set a score based on rating and price.
    - Key technologies used: [Python]
   
-3. **[Python Game](https://github.com/lordbuffcloud/sawgame.git)**
+  **[Python Game](https://github.com/lordbuffcloud/sawgame.git)**
    - Python Game to turn in papers for college.
 
 
