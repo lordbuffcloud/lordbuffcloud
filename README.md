@@ -35,7 +35,8 @@ Some of the many projects that I've completed over the years:
 
    **[silent-auction](https://github.com/lordbuffcloud/silent-auction.git)**
 
-[![Silent Auction App](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/iSklAEk6Knw)
+[![Watch the video](https://img.youtube.com/vi/_iSklAEk6Knw/0.jpg)](https://www.youtube.com/watch?v=_iSklAEk6Knw)
+
 
   
    - [Acquisitions Assist](https://acquisitions.ngrok.dev/)
