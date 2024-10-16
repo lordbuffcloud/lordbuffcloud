@@ -8,6 +8,8 @@
 |_______||___|  |_||___| |_______|
 
 ```
+*[Portfolio](https://edgefolio-94wufrw6r-lordbuffclouds-projects.vercel.app/)*
+
 # 👽 About Me:
 
 Hello! I'm a seasoned **Software and Machine Learning Engineer** with over **18 years** of experience in the Department of Defense, software development, and security. As the founder of **K1ng Digital Solutions LLC**—a tech startup and freelance IT company—I specialize in crafting practical and efficient tech solutions that make a real-world impact.
@@ -35,11 +37,12 @@ Some of many projects that I've done over the years:
    - Uncensored CLI discord bot
    - Key technologies used: [Discord-App], [Python]
 
-2. **[Ewok-Feedback](https://github.com/lordbuffcloud/wingz.git)**
+2. **[Wingz](https://github.com/lordbuffcloud/wingz.git)**
    - Wingz powered by LLM to take a zipcode and find the best wingz in areas using MATH to set a score based on rating and price.
    - Key technologies used: [Python]
   
-3. **[Wingz](https://github.com/lordbuffcloud/ewok_feedback.git)**
+3. **[Python Game](https://github.com/lordbuffcloud/sawgame.git)**
+   - Python Game to turn in papers for college.
 
 Feel free to check out these projects and provide any feedback or contributions!
 ## 🌐 Socials:
