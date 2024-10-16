@@ -33,7 +33,7 @@ Here are some of the exciting projects I'm currently working on:
 
 Some of the many projects that I've completed over the years:
 
-   **[silent-auction](https://github.com/lordbuffcloud/silent-auction.git)**
+   - **[silent-auction](https://github.com/lordbuffcloud/silent-auction.git)**
 
 [![Watch the video](https://img.youtube.com/vi/iSklAEk6Knw/0.jpg)](https://www.youtube.com/watch?v=iSklAEk6Knw)
 
