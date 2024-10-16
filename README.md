@@ -44,6 +44,15 @@ Some of many projects that I've done over the years:
 3. **[Python Game](https://github.com/lordbuffcloud/sawgame.git)**
    - Python Game to turn in papers for college.
 
+
+## Future Project
+
+- **Glxy-Data Processor** - Agents to process data autonomously 
+- **Roasts SaaS App** - A simple SaaS application for generating humorous roasts when users input pictures of their friends.
+- ** Remake SAAS to sell GLXY** - <--- that
+- ** Looping Agent Framework** - An app designed for task management and notifications.
+- **Universal RAG** - An app where users upload documents into a 'box' and use a 'RAG box' to instruct AI agents.
+  
 Feel free to check out these projects and provide any feedback or contributions!
 ## 🌐 Socials:
 
