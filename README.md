@@ -23,7 +23,7 @@ Here are some of the exciting projects I'm currently working on:
      Backend creates COA based on AI fine tuned on base design best practices. Users chat with agents.
    - Key technologies used: [glxy], [React], [Python]
   
- 2. **[Impact-Tracker]([https://github.com/lordbuffcloud/base.git](https://github.com/lordbuffcloud/impact-tracker))**
+ 2. **[Impact-Tracker](https://github.com/lordbuffcloud/impact-tracker)**
    - A tool for Guardians to input Weekly Reports that are then scrubbed by AI and gamified through a voting system. Community & AI Driven Performance Statement Currations based on Weekly Reports.
    - Key technologies used: [glxy], [React], [Python]
 
