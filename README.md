@@ -33,6 +33,10 @@ Here are some of the exciting projects I'm currently working on:
 
 Some of many projects that I've done over the years:
 
+   - [Acquisitions Assist](https://acquisitions.ngrok.dev/)
+     
+   - [Cyber Threat Intel Scraper](https://cis.ngrok.app/)
+     
 1. **[open-glxy](https://github.com/lordbuffcloud/open-glxy.git)**
    - Uncensored CLI discord bot
    - Key technologies used: [Discord-App], [Python]
