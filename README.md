@@ -35,7 +35,7 @@ Some of the many projects that I've completed over the years:
 
    **[silent-auction](https://github.com/lordbuffcloud/silent-auction.git)**
 
-[![Watch the video](https://img.youtube.com/vi/_iSklAEk6Knw/0.jpg)](https://www.youtube.com/watch?v=_iSklAEk6Knw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iSklAEk6Knw?si=I79qBbk6wzY9sPTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
   
