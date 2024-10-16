@@ -22,11 +22,27 @@ Here are some of the exciting projects I'm currently working on:
    - Base Layout Analyzer tool that allows users to upload images, PDFs, or Word documents containing base layouts or maps.
      Backend creates COA based on AI fine tuned on base design best practices. Users chat with agents.
    - Key technologies used: [glxy], [React], [Python]
+  
+ 2. **[Impact-Tracker]([https://github.com/lordbuffcloud/base.git](https://github.com/lordbuffcloud/impact-tracker))**
+   - A tool for Guardians to input Weekly Reports that are then scrubbed by AI and gamified through a voting system. Community & AI Driven Performance Statement Currations based on Weekly Reports.
+   - Key technologies used: [glxy], [React], [Python]
+
+## 🚀 Some completed projects
+
+Some of many projects that I've done over the years:
+
+1. **[open-glxy](https://github.com/lordbuffcloud/open-glxy.git)**
+   - Uncensored CLI discord bot
+   - Key technologies used: [Discord-App], [Python]
+
+1. **[Ewok-Feedback](https://github.com/lordbuffcloud/ewok_feedback.git)**
+   - VoiceFlow feedback flow that sends responses to discord.
+   - Key technologies used: [VoiceFlow], [HTML]
 
 Feel free to check out these projects and provide any feedback or contributions!
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedinusername) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/lordbuffcloud) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/occultmystagogue) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/occultmystagogue) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=x&logoColor=white)](https://x.com/kingcris)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristopher-king-baa981272) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/lordbuffcloud) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/occultmystagogue) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/occultmystagogue) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=x&logoColor=white)](https://x.com/kingcris)
 
 # 💻 Tech Stack:
 
