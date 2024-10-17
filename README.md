@@ -12,9 +12,9 @@
 
 # 👽 About Me:
 
-Hello! I'm a seasoned **Software and Machine Learning Engineer** with over **18 years** of experience in the Department of Defense, software development, and security. As the founder of **K1ng Digital Solutions LLC**—a tech startup and freelance IT company—I specialize in crafting practical and efficient tech solutions that make a real-world impact.
+Hello! I’m a software developer, and I work on training machine learning models. I enjoy finding practical solutions to problems through code and data. Founder of **K1ng Digital Solutions LLC**—a tech startup and freelance IT company—I specialize in crafting practical and efficient tech solutions that make a real-world impact.
 
-Beyond engineering, I'm also a **graffiti artist** who loves to merge creativity with technology. I'm passionate about leveraging tech to optimize life, approaching challenges with a clean and pragmatic mindset, and executing projects with a modern flair.
+Beyond programming, I enjoy **graffiti art** trying to merge creativity with technology. I'm passionate about leveraging tech to optimize life, approaching challenges with a clean and pragmatic mindset, and executing projects with a modern flair.
 
 ## 🚀 Current Projects
 
@@ -29,9 +29,7 @@ Here are some of the exciting projects I'm currently working on:
    - A tool for Guardians to input Weekly Reports that are then scrubbed by AI and gamified through a voting system. Community & AI Driven Performance Statement Currations based on Weekly Reports.
    - Key technologies used: [glxy], [React], [Python]
 
-## 🚀 Some completed projects
-
-Some of the many projects that I've completed over the years:
+## 🚀 Some recent projects
 
    - **[silent-auction](https://github.com/lordbuffcloud/silent-auction.git)**
 
