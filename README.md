@@ -20,14 +20,38 @@ Beyond programming, I enjoy **graffiti art** trying to merge creativity with tec
 
 Here are some of the exciting projects I'm currently working on:
 
-1. **[BASE](https://github.com/lordbuffcloud/base.git)**
-   - Base Layout Analyzer tool that allows users to upload images, PDFs, or Word documents containing base layouts or maps.
-     Backend creates COA based on AI fine tuned on base design best practices. Users chat with agents.
-   - Key technologies used: [glxy], [React], [Python]
-  
-2. **[Impact-Tracker](https://github.com/lordbuffcloud/impact-tracker)**
-   - A tool for Guardians to input Weekly Reports that are then scrubbed by AI and gamified through a voting system. Community & AI Driven Performance Statement Currations based on Weekly Reports.
-   - Key technologies used: [glxy], [React], [Python]
+## APPS STATUS
+
+### Cyber Intel Scraper (CIS)
+![Cyber Intel Scraper](https://glxy.ngrok.app/cis.png)
+**Status**: AI-powered threat intelligence tool for scraping and analyzing cyber threat data. Provides real-time insights and alerts based on data collected from various sources.  
+**Link**: [cis.ngrok.app](https://cis.ngrok.app)
+
+**Current State**: *In Beta Testing - Waiting for stakeholder insights to improve project, including scraping certain places for specific data.*
+
+### Acquisitions Assistant
+![Acquisitions Assistant](https://glxy.ngrok.app/acq.png)
+**Status**: Provides a simple, clean interface for users to ask questions, with backend agents providing answers and exact references.  
+**Link**: [acquisitions.ngrok.dev](https://acquisitions.ngrok.dev/)
+
+**Current State**: *Version 1.0 Released - Looking for input from acquisitions professionals on desired product features.*
+
+### BASE
+![BASE Layout Analyzer](https://glxy.ngrok.app/base.png)
+**Status**: Base Layout Analyzer for map and layout optimization. Allows users to upload images, PDFs, or Word documents containing base layouts or maps, utilizing a custom-trained Transformer model (fine-tuned GPT-4 variant) for generating Courses of Action (COAs). Integrates object detection (YOLOv5) and spatial analysis (Geopandas) for actionable insights.  
+**Link**: [github.com/lordbuffcloud/BASE](https://github.com/lordbuffcloud/BASE)
+
+**Current State**: *Development Phase - Cleaning GEOBASE data for training, currently trying to access the data.*
+
+### Impact-Tracker
+![Impact-Tracker](https://glxy.ngrok.app/it.png)
+**Status**: Tracking tool for managing Weekly Action Reports (WARs). The login logic is complete, and a basic database is implemented. Currently working on WAR retrieval and fine-tuning the database structure to add a scoring system.  
+**Link**: [github.com/lordbuffcloud/impact-tracker](https://github.com/lordbuffcloud/impact-tracker)
+
+**Current State**: *Building WAR retrieval functionality and refining the database.*
+
+---
+Developed by Team_Convergence | glxy.api
 
 ## 🚀 Some recent projects
 
