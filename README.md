@@ -9,6 +9,7 @@
 
 ```
 *[Portfolio](https://edgefolio-94wufrw6r-lordbuffclouds-projects.vercel.app/)*
+*[glxy](https://github.com/lordbuffcloud/glxy)*
 
 # 👽 About Me:
 
