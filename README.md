@@ -12,7 +12,7 @@
 
 # 👽 About Me:
 
-Hello! I’m a software developer, and I work on training machine learning models. I enjoy finding practical solutions to problems through code and data. Founder of **K1ng Digital Solutions LLC**—a tech startup and freelance IT company—I specialize in crafting practical and efficient tech solutions that make a real-world impact.
+Hello! I’m a software developer, and I work on training machine learning models. I enjoy finding practical solutions to problems through code and data. Founder of **K1ng Digital Solutions LLC**—a tech startup and freelance IT company—I specialize in crafting practical and efficient tech solutions that make a real-world impact. 
 
 Beyond programming, I enjoy **graffiti art** trying to merge creativity with technology. I'm passionate about leveraging tech to optimize life, approaching challenges with a clean and pragmatic mindset, and executing projects with a modern flair.
 
@@ -53,9 +53,10 @@ Here are some of the exciting projects I'm currently working on:
 ---
 Developed by Team_Convergence | glxy.api
 
-## 🚀 Some recent projects
+## 🚀 RECENT PROJECTS
 
-   - **[silent-auction](https://github.com/lordbuffcloud/silent-auction.git)**
+![silent-auction](https://github.com/lordbuffcloud/silent-auction.git)
+**Status**: Shipped, -success 
 
 [![Watch the video](https://img.youtube.com/vi/iSklAEk6Knw/0.jpg)](https://www.youtube.com/watch?v=iSklAEk6Knw)
 
