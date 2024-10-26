@@ -1,21 +1,20 @@
 ```
- _______  ______    ___   _______ 
+ _______  ______    ___   _______
 |       ||    _ |  |   | |       |
 |       ||   | ||  |   | |  _____|
-|       ||   |_||_ |   | | |_____ 
+|       ||   |_||_ |   | | |_____
 |      _||    __  ||   | |_____  |
 |     |_ |   |  | ||   |  _____| |
 |_______||___|  |_||___| |_______|
-
 ```
 *[Portfolio](https://edgefolio-94wufrw6r-lordbuffclouds-projects.vercel.app/)*
 *[glxy](https://github.com/lordbuffcloud/glxy)*
 
 # 👽 About Me:
 
-Hello! I’m a software developer, and I work on training machine learning models. I enjoy finding practical solutions to problems through code and data. Founder of **K1ng Digital Solutions LLC**—a tech startup and freelance IT company—I specialize in crafting practical and efficient tech solutions that make a real-world impact. 
+Hello! I’m a software developer, and I work on training machine learning models. I enjoy finding practical solutions to problems through code and data. Founder of **K1ng Digital Solutions LLC**—a tech startup and freelance IT company—I specialize in crafting practical and efficient tech solutions that make a real-world impact.
 
-Beyond programming, I enjoy **graffiti art** trying to merge creativity with technology. I'm passionate about leveraging tech to optimize life, approaching challenges with a clean and pragmatic mindset, and executing projects with a modern flair.
+Beyond programming, I enjoy **graffiti art** and trying to merge creativity with technology. I'm passionate about leveraging tech to optimize life, approaching challenges with a clean and pragmatic mindset, and executing projects with a modern flair.
 
 ## 🚀 Current Projects
 
@@ -25,31 +24,78 @@ Here are some of the exciting projects I'm currently working on:
 
 ### Cyber Intel Scraper (CIS)
 ![Cyber Intel Scraper](https://glxy.ngrok.app/cis.png)
-**Status**: AI-powered threat intelligence tool for scraping and analyzing cyber threat data. Provides real-time insights and alerts based on data collected from various sources.  
-**Link**: [cis.ngrok.app](https://cis.ngrok.app)
 
-**Current State**: *In Beta Testing - Waiting for stakeholder insights to improve project, including scraping certain places for specific data.*
+**Status**: An AI-powered threat intelligence tool that automates the collection and analysis of open-source cyber threat information.
+
+**Core Features**:
+- **Smart Threat Detection**: Uses AI to identify and categorize potential cyber threats.
+- **Up-to-Date Intel Database**: Continuously gathers and analyzes the latest open-source data.
+- **Adaptive Learning**: Evolves with new threats to stay ahead of cyber attackers.
+- **Actionable Insights**: Delivers concise, relevant info for fast decision-making.
+
+The aim is to help cybersecurity teams react quicker and more efficiently by cutting down on manual data crunching.
+
+**Link**: [cis.glxy.dev](https://cis.glxy.dev/)
+
+**Current State**: *In Beta Testing - Seeking stakeholder insights to improve targeting specific data sources.*
 
 ### Acquisitions Assistant
 ![Acquisitions Assistant](https://glxy.ngrok.app/acq.png)
-**Status**: Provides a simple, clean interface for users to ask questions, with backend agents providing answers and exact references.  
-**Link**: [acquisitions.ngrok.dev](https://acquisitions.ngrok.dev/)
 
-**Current State**: *Version 1.0 Released - Looking for input from acquisitions professionals on desired product features.*
+**Status**: Designed for program managers and contracting officers, Acquisitions Assistant makes life easier by providing quick, reliable references to acquisition rules and documents such as DFARS and PGI.
 
-### BASE
+**How it Helps**:
+- **Quick References**: Simplifies document searches, eliminating manual browsing.
+- **Accurate Information with Sources**: Direct links to relevant documents for every answer.
+- **User-Friendly**: Just input your scenario and get immediate guidance.
+
+**Link**: [aa.glxy.dev](https://aa.glxy.dev/)
+
+**Current State**: *Version 1.0 Released - Awaiting feedback on new features for acquisition professionals.*
+
+### DriveWorm v1.0
+![DriveWorm](https://glxy.ngrok.app/driveworm.png)
+
+**Status**: Inspired by the 1995 classic game Worms, DriveWorm is an AI-powered semantic file search and analysis system. It integrates transformer-based models for efficient file discovery and analysis.
+
+**Core Features**:
+- **Intelligent Search**: Combines semantic and exact matches for content-aware file ranking.
+- **Content Analysis**: GPT-2 based summarization, document clustering, and related file discovery.
+- **Supported Formats**: From `.txt`, `.pdf`, to `.json`, DriveWorm covers a wide array of formats.
+
+**Technical Stack**:
+- **AI/ML**: Uses SentenceTransformer, BERT, and GPT-2 for embedding and response generation.
+- **Search**: FAISS Index for fast similarity matching.
+
+**Link**: [GitHub - DriveWorm](https://github.com/lordbuffcloud/DriveWorm)
+
+**Current State**: *Beta Version Available - Looking for community contributions.*
+
+### BASE: Advanced Base Layout Analyzer
 ![BASE Layout Analyzer](https://glxy.ngrok.app/base.png)
-**Status**: Base Layout Analyzer for map and layout optimization. Allows users to upload images, PDFs, or Word documents containing base layouts or maps, utilizing a custom-trained Transformer model (fine-tuned GPT-4 variant) for generating Courses of Action (COAs). Integrates object detection (YOLOv5) and spatial analysis (Geopandas) for actionable insights.  
+
+**Status**: Advanced tool for optimizing base layouts. Upload images, PDFs, or Word documents of base layouts/maps, and BASE will generate actionable Course of Action (COAs) using a fine-tuned Transformer model.
+
+**How it Works**:
+- **Multi-Format Uploads**: Accepts images, PDFs, and Word docs.
+- **AI Analysis**: Uses YOLOv5 for object detection and Geopandas for spatial analysis.
+
 **Link**: [github.com/lordbuffcloud/BASE](https://github.com/lordbuffcloud/BASE)
 
-**Current State**: *Development Phase - Cleaning GEOBASE data for training, currently trying to access the data.*
+**Current State**: *Development Phase - Cleaning GEOBASE data for training and testing.*
 
 ### Impact-Tracker
 ![Impact-Tracker](https://glxy.ngrok.app/it.png)
-**Status**: Tracking tool for managing Weekly Action Reports (WARs). The login logic is complete, and a basic database is implemented. Currently working on WAR retrieval and fine-tuning the database structure to add a scoring system.  
+
+**Status**: A community-driven Weekly Action Report (WAR) tracking tool. Users can submit WARs, which are then scored by the community, enabling a transparent tracking system.
+
+**Current Features**:
+- **Login and Basic Database**: Complete.
+- **WAR Retrieval and Scoring System**: Under development.
+
 **Link**: [github.com/lordbuffcloud/impact-tracker](https://github.com/lordbuffcloud/impact-tracker)
 
-**Current State**: *Building WAR retrieval functionality and refining the database.*
+**Current State**: *Developing WAR retrieval functionality and refining the scoring system.*
 
 ---
 Developed by Team_Convergence | glxy.api
@@ -57,37 +103,23 @@ Developed by Team_Convergence | glxy.api
 ## 🚀 RECENT PROJECTS
 
 ![silent-auction](https://github.com/lordbuffcloud/silent-auction.git)
-**Status**: Shipped, -success 
-
+**Status**: Shipped, Success  
 [![Watch the video](https://img.youtube.com/vi/iSklAEk6Knw/0.jpg)](https://www.youtube.com/watch?v=iSklAEk6Knw)
 
+- [Acquisitions Assist](https://acquisitions.ngrok.dev/)
+- [Cyber Threat Intel Scraper](https://cis.ngrok.app/)
 
-   - [Acquisitions Assist](https://acquisitions.ngrok.dev/)
-     
-   - [Cyber Threat Intel Scraper](https://cis.ngrok.app/)
-     
-  **[open-glxy](https://github.com/lordbuffcloud/open-glxy.git)**
-   - Uncensored CLI discord bot
-   - Key technologies used: [Discord-App], [Python]
+**[open-glxy](https://github.com/lordbuffcloud/open-glxy.git)**
+- Uncensored CLI Discord bot
+- Key technologies used: [Discord-App], [Python]
 
-  **[Wingz](https://github.com/lordbuffcloud/wingz.git)**
-   - Wingz powered by LLM to take a zipcode and find the best wingz in areas using MATH to set a score based on rating and price.
-   - Key technologies used: [Python]
-  
-  **[Python Game](https://github.com/lordbuffcloud/sawgame.git)**
-   - Python Game to turn in papers for college.
+**[Wingz](https://github.com/lordbuffcloud/wingz.git)**
+- Wingz powered by LLM to take a zipcode and find the best wingz in areas using MATH to set a score based on rating and price.
+- Key technologies used: [Python]
 
+**[Python Game](https://github.com/lordbuffcloud/sawgame.git)**
+- Python Game to turn in papers for college.
 
-## Future Project
-
-- **Glxy-Data Processor** - Agents to process data autonomously 
-- **Roasts SaaS App** - A simple SaaS application for generating humorous roasts when users input pictures of their friends.
-- **Remake SAAS to sell GLXY** - <--- that
-- **Looping Agent Framework** - An app designed for task management and notifications.
-- **Universal RAG** - An app where users upload documents into a 'box' and use a 'RAG box' to instruct AI agents.
-- **WarDrobe SAAS** - WarDrobe Management powered by AI
-  
-Feel free to check out these projects and provide any feedback or contributions!
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristopher-king-baa981272) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/lordbuffcloud) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/occultmystagogue) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/occultmystagogue) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=x&logoColor=white)](https://x.com/kingcris)
