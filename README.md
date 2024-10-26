@@ -87,7 +87,7 @@ The aim is to help cybersecurity teams react quicker and more efficiently by cut
 
 ## 🚀 RECENT PROJECTS
 
-### BePubs.glx.dev - A better search engine for Air Force documents, aimed at making it easier to find official forms and information. BePubs.glx.dev
+[BePubs](https://BePubs.glx.dev) - ## A better search engine for Air Force documents, aimed at making it easier to find official forms and information. 
 
 [Bollard Striker Game](https://github.com/lordbuffcloud/bollard_striker) 🚗💥
 
