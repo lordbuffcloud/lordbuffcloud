@@ -12,7 +12,7 @@
 
 # 👽 About Me:
 
-Hello! I’m a software developer, and I work on training machine learning models. I enjoy finding practical solutions to problems through code and data. Founder of **K1ng Digital Solutions LLC**—a tech startup and freelance IT company—I specialize in crafting practical and efficient tech solutions that make a real-world impact.
+Hello! I’m a software developer and love machine learning. Founder of **K1ng Digital Solutions**—a tech startup and freelance IT company—I specialize in crafting practical and efficient tech solutions that make a real-world impact.
 
 Beyond programming, I enjoy **graffiti art** and trying to merge creativity with technology. I'm passionate about leveraging tech to optimize life, approaching challenges with a clean and pragmatic mindset, and executing projects with a modern flair.
 
@@ -23,7 +23,7 @@ Here are some of the exciting projects I'm currently working on:
 ## APPS STATUS
 
 ### Cyber Intel Scraper (CIS)
-![Cyber Intel Scraper](https://glxy.ngrok.app/cis.png)
+![Cyber Intel Scraper](https://glxy.dev/cis.png)
 
 **Status**: An AI-powered threat intelligence tool that automates the collection and analysis of open-source cyber threat information.
 
@@ -37,7 +37,7 @@ The aim is to help cybersecurity teams react quicker and more efficiently by cut
 
 **Link**: [cis.glxy.dev](https://cis.glxy.dev/)
 
-**Current State**: *In Beta Testing - Seeking stakeholder insights to improve targeting specific data sources.*
+**Current State**: *In Testing - Seeking stakeholder insights to improve targeting specific data sources.*
 
 ### Acquisitions Assistant
 ![Acquisitions Assistant](https://glxy.ngrok.app/acq.png)
@@ -54,7 +54,7 @@ The aim is to help cybersecurity teams react quicker and more efficiently by cut
 **Current State**: *Version 1.0 Released - Awaiting feedback on new features for acquisition professionals.*
 
 ### DriveWorm v1.0
-![DriveWorm](https://glxy.ngrok.app/driveworm.png)
+![DriveWorm](https://glxy.dev/driveworm.png)
 
 **Status**: Inspired by the 1995 classic game Worms, DriveWorm is an AI-powered semantic file search and analysis system. It integrates transformer-based models for efficient file discovery and analysis.
 
@@ -69,10 +69,10 @@ The aim is to help cybersecurity teams react quicker and more efficiently by cut
 
 **Link**: [GitHub - DriveWorm](https://github.com/lordbuffcloud/DriveWorm)
 
-**Current State**: *Beta Version Available - Looking for community contributions.*
+**Current State**: *Realeasing code on Nov 4.*
 
 ### BASE: Advanced Base Layout Analyzer
-![BASE Layout Analyzer](https://glxy.ngrok.app/base.png)
+![BASE Layout Analyzer](https://glxy.dev/base.png)
 
 **Status**: Advanced tool for optimizing base layouts. Upload images, PDFs, or Word documents of base layouts/maps, and BASE will generate actionable Course of Action (COAs) using a fine-tuned Transformer model.
 
@@ -83,22 +83,7 @@ The aim is to help cybersecurity teams react quicker and more efficiently by cut
 **Link**: [github.com/lordbuffcloud/BASE](https://github.com/lordbuffcloud/BASE)
 
 **Current State**: *Development Phase - Cleaning GEOBASE data for training and testing.*
-
-### Impact-Tracker
-![Impact-Tracker](https://glxy.ngrok.app/it.png)
-
-**Status**: A community-driven Weekly Action Report (WAR) tracking tool. Users can submit WARs, which are then scored by the community, enabling a transparent tracking system.
-
-**Current Features**:
-- **Login and Basic Database**: Complete.
-- **WAR Retrieval and Scoring System**: Under development.
-
-**Link**: [github.com/lordbuffcloud/impact-tracker](https://github.com/lordbuffcloud/impact-tracker)
-
-**Current State**: *Developing WAR retrieval functionality and refining the scoring system.*
-
 ---
-Developed by Team_Convergence | glxy.api
 
 ## 🚀 RECENT PROJECTS
 
@@ -106,8 +91,8 @@ Developed by Team_Convergence | glxy.api
 **Status**: Shipped, Success  
 [![Watch the video](https://img.youtube.com/vi/iSklAEk6Knw/0.jpg)](https://www.youtube.com/watch?v=iSklAEk6Knw)
 
-- [Acquisitions Assist](https://acquisitions.ngrok.dev/)
-- [Cyber Threat Intel Scraper](https://cis.ngrok.app/)
+- [Acquisitions Assist](https://aa.glxy.dev/)
+- [Cyber Threat Intel Scraper](https://cis.glxy.dev/)
 
 **[open-glxy](https://github.com/lordbuffcloud/open-glxy.git)**
 - Uncensored CLI Discord bot
