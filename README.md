@@ -29,7 +29,7 @@ Welcome to my GitHub! I’m Cris, a passionate developer and machine learning en
 - **Status**: Beta testing; gathering feedback to enhance data source targeting.
 - **Purpose**: Automates open-source cyber threat intelligence collection and analysis.
 - **Features**: Smart threat detection, real-time insights, and actionable intelligence.
-- **Demo**: [cis.glxy.dev](https://cis.glxy.dev)
+- **Demo**: [bepubs.glxy.dev](https://bepubs.glxy.dev)
 
 #### **AF Forms Scraper**
 - **Status**: Used on [BePubs](https://bepubs.glxy.dev).
