@@ -97,4 +97,3 @@ Welcome to my GitHub! I’m Cris, a passionate developer and machine learning en
 
 ---
 
-Let me know if you’d like further customization or additional sections!
