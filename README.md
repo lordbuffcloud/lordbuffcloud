@@ -20,16 +20,47 @@ Welcome to my GitHub! I’m Cris, a passionate developer and machine learning en
 
 ### 🛠️ **Recent Projects**
 
-#### **Cyber Intel Scraper (CIS)**
-[![Cyber Intel Scraper](https://glxy.dev/cis.png)](https://cis.glxy.dev)
 
-#### **BePubs (better Epubs)**
-[![BePubs](https://glxy.dev/bepubs.png)](https://bepubs.glxy.dev)
+---
 
-- **Status**: Beta testing; gathering feedback to enhance data source targeting.
-- **Purpose**: Automates open-source cyber threat intelligence collection and analysis.
-- **Features**: Smart threat detection, real-time insights, and actionable intelligence.
-- **Demo**: [bepubs.glxy.dev](https://bepubs.glxy.dev)
+### :shield: **Cyber Intel Scraper (CIS)**
+
+**Purpose:** Streamlining cyber intelligence gathering for accelerated responses.
+
+**What it Delivers:**
+- **Smart Threat Detection:** Using 24/7 Agent webs-crapping to identify and categorizes emerging cyber threats.
+- **Dynamic Intel Database:** Constantly updates with the latest open-source threat information, ensuring timely intelligence.
+- **Adaptive Learning:** Learns from each interaction, adapting to detect new threats as they evolve.
+- **Actionable Insights:** Delivers clear, concise summaries so teams can act decisively.
+
+> CIS helps cybersecurity teams focus on what matters, reducing the need for manual data gathering.
+
+**Explore CIS live:** [cis.glxy.dev](https://cis.glxy.dev)
+
+---
+
+### :page_facing_up: **Bepubs Form Finder**
+
+**Purpose:** Overcoming longstanding challenges in finding Air Force forms.  
+For nearly two decades, efficient form retrieval on the Air Force’s e-publishing site has been elusive. This project tackles that challenge with an AI-powered search engine, designed specifically to retrieve and answer queries about AF forms.
+
+**Experience it here:** [bepubs.glxy.dev](https://bepubs.glxy.dev)
+
+---
+
+### :robot: **Advanced Agentic RAG for Acquisitions (AA)**
+
+**Purpose:** Equipping acquisitions professionals with an intelligent agent for rapid information retrieval and decision support.
+
+**What it Offers:**
+- **Contextualized Querying:** Advanced retrieval-augmented generation (RAG) system tailored for acquisitions data.
+- **Agent-Driven Intelligence:** Enables professionals to efficiently locate, retrieve, and leverage key insights.
+  
+**See it in action:** [aa.glxy.dev](https://aa.glxy.dev)
+
+---
+
+Each of these projects is a step toward enhancing Space Force operations, from cyber intelligence to data accessibility and intelligent retrieval.
 
 #### **AF Forms Scraper**
 - **Status**: Used on [BePubs](https://bepubs.glxy.dev).
@@ -45,19 +76,10 @@ Welcome to my GitHub! I’m Cris, a passionate developer and machine learning en
 - **Features**: Semantic search, content analysis, format support across `.txt`, `.pdf`, `.json`.
 - **Demo**: [GitHub - DriveWorm](https://github.com/lordbuffcloud/DriveWorm)
 
-#### **BASE Layout Analyzer**
-[![BASE Layout Analyzer](https://glxy.dev/base.png)](https://github.com/lordbuffcloud/BASE)
-
-- **Status**: Development phase.
-- **Purpose**: Analyzes and optimizes base layouts using fine-tuned AI.
-- **Features**: Multi-format uploads, AI-powered COA generation, spatial analysis with Geopandas.
-
 ---
 
 ### 📈 **GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api?username=lordbuffcloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lordbuffcloud&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordbuffcloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
