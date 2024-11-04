@@ -41,7 +41,7 @@ Other Interests: **Programming**, **Graffiti Art**, **Competitive Bowling**, **A
 [**Explore BePubs live**](https://bepubs.glxy.dev)
 
 ---
-
+[![BePubs](https://glxy.dev/acq.png)](https://github.com/lordbuffcloud)
 #### :robot: **Advanced Agentic RAG for Acquisitions (AA)**
 **Purpose**: Tailored for acquisition professionals needing fast, context-aware data.
 
