@@ -40,30 +40,23 @@ Welcome to my GitHub! I’m Cris, a passionate developer and machine learning en
 ---
 
 ### :page_facing_up: **Bepubs Form Finder**
-
+Patent pending
 **Purpose:** Overcoming longstanding challenges in finding Air Force forms.  
 For nearly two decades, efficient form retrieval on the Air Force’s e-publishing site has been elusive. This project tackles that challenge with an AI-powered search engine, designed specifically to retrieve and answer queries about AF forms.
-
-**Experience it here:** [bepubs.glxy.dev](https://bepubs.glxy.dev)
 
 ---
 
 ### :robot: **Advanced Agentic RAG for Acquisitions (AA)**
 
 **Purpose:** Equipping acquisitions professionals with an intelligent agent for rapid information retrieval and decision support.
-
 **What it Offers:**
 - **Contextualized Querying:** Advanced retrieval-augmented generation (RAG) system tailored for acquisitions data.
 - **Agent-Driven Intelligence:** Enables professionals to efficiently locate, retrieve, and leverage key insights.
-  
-**See it in action:** [aa.glxy.dev](https://aa.glxy.dev)
 
 ---
 
-Each of these projects is a step toward enhancing Space Force operations, from cyber intelligence to data accessibility and intelligent retrieval.
-
-#### **AF Forms Scraper**
-- **Status**: Used on [BePubs](https://bepubs.glxy.dev).
+### **AF Forms Scraper**
+- **Status**: Patent pending
 - **Purpose**: Scrapes Air Force forms from the e-Publishing website into a SQLite database.
 - **Tech**: Python, Selenium, SQLite.
 - **Repo**: [Repo](https://github.com/lordbuffcloud/af_forms_scraper)
@@ -71,10 +64,9 @@ Each of these projects is a step toward enhancing Space Force operations, from c
 #### **DriveWorm v1.0**
 [![DriveWorm](https://glxy.dev/driveworm.png)](https://github.com/lordbuffcloud/DriveWorm)
 
-- **Status**: Code release on Nov 4.
+- **Status**: Patent pending
 - **Purpose**: AI-powered semantic file search and analysis inspired by classic games.
 - **Features**: Semantic search, content analysis, format support across `.txt`, `.pdf`, `.json`.
-- **Demo**: [GitHub - DriveWorm](https://github.com/lordbuffcloud/DriveWorm)
 
 ---
 
