@@ -3,75 +3,67 @@
 
 # **Cris King | lordbuffcloud**
 
-**Founder of K1ng Digital Solutions** | **Machine Learning & AI Enthusiast** | **Graffiti Artist**
+**Founder of K1ng Digital Solutions** | **Machine Learning, AI, and Cybersecurity Enthusiast** | **Graffiti Artist**
 
-Welcome to my GitHub! I’m Cris, a passionate developer and machine learning enthusiast with a knack for blending art and technology. With a focus on practical, impactful solutions, I’ve built a variety of applications that make life easier, from threat intelligence tools to specialized Air Force utilities. 
+Welcome to my GitHub! I’m Cris, a developer passionate about merging art with technology to solve real-world challenges. From cyber intelligence tools to mission-critical Air Force applications, my projects focus on enhancing lives and optimizing work through innovative, secure solutions.
 
 ---
 
 ### 🚀 **About Me**
-- **Founder** of **K1ng Digital Solutions** - a startup crafting pragmatic tech solutions.
-- **Creative Developer**: Merging tech with art, from graffiti to 3D design.
-- **Tech Stack**: Skilled in **Python**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **Docker**, and more.
+- **Founder** of **K1ng Digital Solutions** - a startup dedicated to practical, tech-forward solutions.
+- **Creative Developer**: Integrates tech and art, from graffiti to 3D design, blending aesthetic with function.
+- **Tech Stack**: Fluent in **Python**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **Docker**, and more.
 
-**programming**, **graffiti art**, **Bowler**, **Paintballer**, **Air Force, AD** 
-
----
-
-### 🛠️ **Recent Projects**
-
+Other Interests: **Programming**, **Graffiti Art**, **Competitive Bowling**, **Air Force Veteran**, **Paintball**
 
 ---
 
-### :shield: **Cyber Intel Scraper (CIS)**
+### 🛠️ **Highlighted Projects**
 
-**Purpose:** Streamlining cyber intelligence gathering for accelerated responses.
+#### :shield: **Cyber Intel Scraper (CIS)**
+**Purpose**: Redefines cyber intelligence for proactive threat management.
 
-**What it Delivers:**
-- **Smart Threat Detection:** Using 24/7 Agent webs-crapping to identify and categorizes emerging cyber threats.
-- **Dynamic Intel Database:** Constantly updates with the latest open-source threat information, ensuring timely intelligence.
-- **Adaptive Learning:** Learns from each interaction, adapting to detect new threats as they evolve.
-- **Actionable Insights:** Delivers clear, concise summaries so teams can act decisively.
+**Key Features**:
+- **Smart Detection**: Real-time web scraping for categorizing cyber threats.
+- **Dynamic Intel Database**: Continuously updates with relevant OSINT.
+- **Learning Algorithms**: Adapts to new threats, improving over time.
+- **Actionable Summaries**: Empowers cybersecurity teams with quick, clear insights.
 
-> CIS helps cybersecurity teams focus on what matters, reducing the need for manual data gathering.
+[**Explore CIS live**](https://cis.glxy.dev)
 
-**Explore CIS live:** [cis.glxy.dev](https://cis.glxy.dev)
+---
+[![BePubs](https://glxy.dev/bepubs.png)](https://bepubs.glxy.dev)
+#### :page_facing_up: **Bepubs Form Finder**
+**Purpose**: Solves long-standing retrieval issues on the Air Force e-publishing site with AI-powered search.
+
+**Impact**: Designed specifically to locate and respond to queries on AF forms quickly and accurately.
+
+[**Explore BePubs live**](https://bepubs.glxy.dev)
 
 ---
 
-### :page_facing_up: **Bepubs Form Finder**
-Patent pending
-**Purpose:** Overcoming longstanding challenges in finding Air Force forms.  
-For nearly two decades, efficient form retrieval on the Air Force’s e-publishing site has been elusive. This project tackles that challenge with an AI-powered search engine, designed specifically to retrieve and answer queries about AF forms.
+#### :robot: **Advanced Agentic RAG for Acquisitions (AA)**
+**Purpose**: Tailored for acquisition professionals needing fast, context-aware data.
+
+**Features**:
+- **Contextual Querying**: RAG system optimized for acquisition data.
+- **Intelligent Retrieval**: Accelerates decision-making by streamlining information access.
 
 ---
 
-### :robot: **Advanced Agentic RAG for Acquisitions (AA)**
-
-**Purpose:** Equipping acquisitions professionals with an intelligent agent for rapid information retrieval and decision support.
-**What it Offers:**
-- **Contextualized Querying:** Advanced retrieval-augmented generation (RAG) system tailored for acquisitions data.
-- **Agent-Driven Intelligence:** Enables professionals to efficiently locate, retrieve, and leverage key insights.
-
----
-
-### **AF Forms Scraper**
-- **Status**: Patent pending
-- **Purpose**: Scrapes Air Force forms from the e-Publishing website into a SQLite database.
-- **Tech**: Python, Selenium, SQLite.
-- **Repo**: [Repo](https://github.com/lordbuffcloud/af_forms_scraper)
+#### :page_with_curl: **AF Forms Scraper**
+- **Functionality**: Uses Python and Selenium to scrape Air Force forms into a SQLite database.
 
 #### **DriveWorm v1.0**
-[![DriveWorm](https://glxy.dev/driveworm.png)](https://github.com/lordbuffcloud/DriveWorm)
+[![DriveWorm](https://glxy.dev/driveworm.png)](https://github.com/lordbuffcloud/glxy)
 
 - **Status**: Patent pending
-- **Purpose**: AI-powered semantic file search and analysis inspired by classic games.
-- **Features**: Semantic search, content analysis, format support across `.txt`, `.pdf`, `.json`.
+- **Highlights**: An AI-powered file search engine with semantic parsing across `.txt`, `.pdf`, and `.json` formats.
 
 ---
 
 ### 📈 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=lordbuffcloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=lordbuffcloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 
@@ -106,8 +98,7 @@ For nearly two decades, efficient form retrieval on the Air Force’s e-publishi
 
 ---
 
-### ✍️ **Random Dev Quote**
+### ✍️ **Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-
