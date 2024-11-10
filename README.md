@@ -68,7 +68,7 @@ hobbies: ["Graffiti Art", "Competitive Bowling", "Paintball", "Skateboarding"]
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lordbuffcloud&theme=github-dark-dimmed&custom_title=Cris%20King's%20Activity%20Graph&hide_border=true">
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=lordbuffcloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=lordbuffcloud&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 
 ---
