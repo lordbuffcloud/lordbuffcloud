@@ -59,15 +59,6 @@ hobbies: ["Graffiti Art", "Competitive Bowling", "Paintball", "Skateboarding"]
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=12143445133&count=5">
 </p>
 
----
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/lordbuffcloud/driveworm/issues/15#issuecomment-2111234567) in [lordbuffcloud/driveworm](https://github.com/lordbuffcloud/driveworm)
-2. ❗ Opened issue [#4](https://github.com/lordbuffcloud/glxy/issues/4) in [lordbuffcloud/glxy](https://github.com/lordbuffcloud/glxy)
-3. 🗣 Commented on [#1](https://github.com/lordbuffcloud/glxy/issues/1#issuecomment-2067890001) in [lordbuffcloud/glxy](https://github.com/lordbuffcloud/glxy)
-<!--END_SECTION:activity-->
 
 ---
 
@@ -79,47 +70,6 @@ hobbies: ["Graffiti Art", "Competitive Bowling", "Paintball", "Skateboarding"]
 
 ![](https://github-readme-stats.vercel.app/api?username=lordbuffcloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-10%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 500.0 kB Used in GitHub's Storage 
- > 
-> 🏆 1300 Contributions in 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 50 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                300 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌆 Daytime                900 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
-🌃 Evening                1300 commits        ███████████░░░░░░░░░░░░░░   43.33 % 
-🌙 Night                  500 commits         █████░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Python                   12 hrs              ████████████████░░░░░░░░░   60.00 % 
-JavaScript               5 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Docker                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML/CSS                 1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-
-🐱‍💻 Projects: 
-Cyber Intel Scraper      10 hrs              ████████████░░░░░░░░░░░░░   50.00 % 
-DriveWorm                8 hrs               ██████████░░░░░░░░░░░░░░░   40.00 % 
-GLXY                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
 
 ---
 
