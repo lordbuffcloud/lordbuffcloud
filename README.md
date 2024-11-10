@@ -7,8 +7,6 @@
 
 **Full Stack Dev** | **Machine Learning, AI, and Cybersecurity Enthusiast** | **Graffiti Artist**
 
-[![Actions Status](https://github.com/lordbuffcloud/lordbuffcloud/workflows/wakatime-stats/badge.svg)](https://github.com/lordbuffcloud/lordbuffcloud/actions)
-[![Actions Status](https://github.com/lordbuffcloud/lordbuffcloud/workflows/update-gh-activity/badge.svg)](https://github.com/lordbuffcloud/lordbuffcloud/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=lordbuffcloud.lordbuffcloud)
 
 <p align="center">
