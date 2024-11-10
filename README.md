@@ -1,10 +1,7 @@
 
 ---
+<p align="center"> <img src="https://socialify.git.ci/lordbuffcloud/lordbuffcloud/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="lordbuffcloud" width="700" height="300" /> </p> <p align="center"> <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"></img> </p>
 
-
-<p align="center">
-  <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"></img>
-</p>
 
 # **Cris**
 
