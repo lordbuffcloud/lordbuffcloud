@@ -35,18 +35,18 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects  
 
-[![Synchra](https://glxy.dev/synchra.png)](https://synchra-peach.vercel.app)  
+[![Synchra](https://img.shields.io/badge/🌌%20Synchra-Live-brightgreen?style=for-the-badge)](https://synchra-peach.vercel.app)  
 *Binaural beats + frequency engineering platform. Hosted on Vercel.*
 
-[![Klut3rBox](https://glxy.dev/klut3r.png)](https://github.com/lordbuffcloud/klut3rbox)  
+[![Klut3rBox](https://img.shields.io/badge/📦%20Klut3rBox-GitHub-blue?style=for-the-badge)](https://github.com/lordbuffcloud/klut3rbox)  
 *ADHD-oriented catalog & productivity system (local-first, Obsidian + 3D printing integration).*
 
-[![VA Assistant](https://glxy.dev/va.png)](https://github.com/lordbuffcloud/va-assistant)  
+[![VA Assistant](https://img.shields.io/badge/📝%20VA%20Assistant-GitHub-orange?style=for-the-badge)](https://github.com/lordbuffcloud/va-assistant)  
 *Automated VA disability evidence packager and binder builder.*
 
-[![CK42X](https://glxy.dev/ck42x.png)](https://ck42x.com)  
+[![CK42X](https://img.shields.io/badge/⚡%20CK42X-Website-purple?style=for-the-badge)](https://ck42x.com)  
 *Umbrella brand for AI-first apps, automation, and reality engineering tools.*
 
 ---
