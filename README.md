@@ -4,7 +4,7 @@
 ========================================================= -->
 
 <p align="center">
-  <img alt="terminal" width="800" src="./assets/header.svg" />
+  <img alt="terminal" width="800" src="./assets/header.gif" />
 </p>
 
 <p align="center">
