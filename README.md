@@ -4,14 +4,8 @@
 ========================================================= -->
 
 <p align="center">
-  <img src="https://socialify.git.ci/lordbuffcloud/lordbuffcloud/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Cris King — @lordbuffcloud" width="100%" />
-</p>
-
-<p align="center">
   <img alt="terminal" width="800" src="./assets/header.svg" />
 </p>
-
-<h1 align="center">Cris King</h1>
 
 <p align="center">
   <b>Full-Stack Builder</b> · <b>AI Systems</b> · <b>USAF (SSgt, Security Forces)</b>
