@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Builder</b> · <b>AI Systems</b> · <b>USAF (SSgt, Security Forces)</b>
+  <b>CK42X Builder</b> · <b>AI Systems</b> · <b>Flipper/Firmware</b> · <b>Security Tools</b>
 </p>
 
 <p align="center">
@@ -30,16 +30,16 @@
 
 ## What I Do
 
-I build AI-first tools and ship them. Full-stack TypeScript, web and iOS, with a bias toward automation and solving real problems over chasing trends.
+I build practical tools at the edge of AI systems, local-first apps, cybersecurity hardware, and operator workflows.
 
-Currently active duty Air Force, transitioning out late 2026. Everything I build runs in production or it doesn't get listed here.
+Currently active duty Air Force, transitioning out late 2026. I use GitHub as a proof-of-work ledger: shipped demos, working utilities, Flipper apps, firmware experiments, and CK42X product surfaces.
 
 ### Right now
 - **CK42X** — my umbrella brand for apps, services, and experiments. Live at [ck42x.com](https://ck42x.com).
-- **Klutt3rbox** — AI inventory app. Snap a photo, get structured catalog. Web + iOS (App Store). [klutt3rbox.ck42x.com](https://klutt3rbox.ck42x.com)
-- **Retail Recommendation** — product recommender fighting planned obsolescence. Live at [retail.ck42x.com](https://retail.ck42x.com).
-- **Synchra** — audio/frequency experimentation tool. [synchra-peach.vercel.app](https://synchra-peach.vercel.app)
-- **Bowlytics** — bowling analytics with AI coaching insights. Data-driven lane time.
+- **Flipper / firmware tools** — field utilities, training launchers, firmware flashers, and hardware-native experiments.
+- **AI operator tools** — voice-to-clipboard, memory/workflow utilities, and local automation.
+- **Security utilities** — OSINT/search helpers and authorized audit tooling.
+- **Local-first apps** — inventory, wardrobe, recommendation, and personal workflow systems.
 
 ---
 
@@ -47,12 +47,12 @@ Currently active duty Air Force, transitioning out late 2026. Everything I build
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Klutt3rbox**](https://klutt3rbox.ck42x.com) | Photo-in, inventory-out. Web app + native iOS. | `Next.js` `SwiftUI` `Supabase` `Vision AI` |
-| [**Retail Rec**](https://retail.ck42x.com) | Smart product recommendations, anti-obsolescence angle. | `Next.js` `AI` `Supabase` |
-| [**Synchra**](https://synchra-peach.vercel.app) | Live audio entrainment and focus experiments. | `React` `Web Audio API` |
-| [**nyanBEE**](https://www.ck42x.com/nyanbee) | Custom WiFi firmware. Packet sniffer, traffic monitor, beacon tools, evil portals. | `C++` `ESP32` |
-| [**Bowlytics**](https://github.com/lordbuffcloud/bowlytics-app) | Bowling performance tracking + AI coaching. | `TypeScript` `AI` |
-| [**CK42X**](https://ck42x.com) | Services, blog, and project hub. | `Next.js` `Supabase` `Vercel` |
+| [**CK42X PassVault**](https://github.com/lordbuffcloud/flipper-ck42x-passvault) | Flipper Zero field password vault with memorable generation and opt-in HID typing. | `C` `Flipper Zero` `uFBT` |
+| [**VoiceRefine**](https://github.com/lordbuffcloud/VoiceRefine) | Voice-to-clipboard with AI polish and MCP support for coding agents. | `Python` `MCP` `CLI` |
+| [**FlashBay**](https://github.com/lordbuffcloud/flashbay) | Firmware aggregator and browser flasher for cybersecurity hardware. | `TypeScript` `Expo` `WebUSB` `WebSerial` |
+| [**StingerSearch**](https://github.com/lordbuffcloud/stingersearch) | OSINT and Google dorking interface with 200+ templates. | `HTML` `OSINT` `Search` |
+| [**HoneyCrack**](https://github.com/lordbuffcloud/honeycrack) | Self-hosted Hashcat web UI for authorized password audits. | `JavaScript` `Hashcat` `Security` |
+| [**DopeFlipper**](https://github.com/lordbuffcloud/bruce-dopeflipper) | DopeWars-style game for Bruce firmware on LilyGO T-Embed. | `JavaScript` `Bruce` `LilyGO` |
 
 ---
 
@@ -71,7 +71,7 @@ Built and deployed internal tools for Department of Defense operations while ser
 | **GenAI Proxy** | Local AI integration layer for SharePoint applications. |
 | **SharePoint Migration** | Cross-site content migration with permission handling. |
 
-> All built on government time to fix real workflow problems. TypeScript, Next.js, Python, SharePoint.
+> Built internal workflow tools for real operational teams. TypeScript, Next.js, Python, SharePoint.
 
 ---
 
@@ -111,14 +111,15 @@ identity:
   transitioning: late 2026
 
 building:
-  - Klutt3rbox (AI inventory, web + iOS)
-  - Retail Recommendation (product intelligence)
-  - CK42X (services + experiments)
-  - Synchra (audio/focus tools)
+  - CK42X PassVault (Flipper Zero field password vault)
+  - VoiceRefine (voice-to-clipboard with AI polish)
+  - FlashBay (firmware aggregator and browser flasher)
+  - StingerSearch (OSINT/search helper)
+  - HoneyCrack (authorized password-audit UI)
 
 interests:
   - agentic AI systems
-  - offensive security
+  - authorized security research
   - graffiti art
   - esoteric study
 ```
