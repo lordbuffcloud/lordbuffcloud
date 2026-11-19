@@ -6,7 +6,6 @@
 
 <p align="center">
   offensive security tooling · firmware · agentic systems<br/>
-  20-year Air Force retiree, now building in the open.<br/>
   <em>gold on black. sting once.</em>
 </p>
 
@@ -33,7 +32,7 @@
 
 ## the hive
 
-I build hardware-native offensive tools, OSINT workbenches, and the agentic systems that run them. Flipper Zero, ESP32, LilyGO: if it has a radio or a USB port, it's probably on my bench. Before CK42X: two decades of Air Force service, building internal workflow tools for operational teams. Now the ledger is public. If it's here, it ran somewhere first.
+I build hardware-native offensive tools, OSINT workbenches, and the agentic systems that run them. Flipper Zero, ESP32, LilyGO: if it has a radio or a USB port, it's probably on my bench. This account is the proof-of-work ledger: shipped tools, working firmware, experiments that escaped the lab. If it's here, it ran somewhere first.
 
 Everything here is for authorized testing, research, and education. Sting once, with permission.
 
@@ -98,8 +97,8 @@ identity:
   name: Cris King
   handle: lordbuffcloud
   location: Ohio, USA
-  background: software engineer, 20-year Air Force retiree
-  status: building civilian proof-of-work under CK42X
+  background: software engineer
+  status: building proof-of-work under CK42X
 
 building:
   - FlashBay (75 devices, browser flashing)
