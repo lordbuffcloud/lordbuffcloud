@@ -39,7 +39,7 @@ Everything here is for authorized testing, research, and education. Sting once, 
 ## right now
 
 - **[FlashBay](https://flashbay.ck42x.com)**: firmware aggregator and browser flasher for security hardware. 75 devices, 153 firmware entries, 82 flashable straight from the browser.
-- **nyan ecosystem**: [nyanBEE](https://ck42x.com/nyanbee) ESP32 firmware for Wi-Fi, BLE, and NRF24 workflows, plus [nyanCOMP](https://github.com/lordbuffcloud/nyanCOMP), the FCC-compliant nyanBOX build.
+- **[SWARM](https://www.ck42x.com/swarm)**: field firmware for the nyanBOX. [Flash it from the browser](https://www.ck42x.com/swarm/flash) over Web Serial (Chrome or Edge, desktop).
 - **Flipper Zero field tools**: [PassVault](https://github.com/lordbuffcloud/flipper-ck42x-passvault), [wakeup](https://github.com/lordbuffcloud/flipper-ck42x-wakeup), [payload-bay](https://github.com/lordbuffcloud/flipper-ck42x-payload-bay), and [stingBEE](https://github.com/lordbuffcloud/stingBEE) (BadUSB research on the LilyGO T-Dongle C5).
 - **audit + OSINT**: [StingerSearch](https://ck42x.com/tools/stingersearch) (200+ dork templates, visual query builder) and [HoneyCrack](https://github.com/lordbuffcloud/honeycrack) (self-hosted Hashcat UI).
 - **agentic systems**: [VoiceRefine](https://github.com/lordbuffcloud/VoiceRefine) (voice-to-clipboard MCP server for coding agents) and the handstyle campaign, a daily swarm of free models rewriting these repos into my own code fingerprint. The caterpillars are being pinned.
@@ -102,7 +102,7 @@ identity:
 
 building:
   - FlashBay (75 devices, browser flashing)
-  - nyanBEE / nyanCOMP (ESP32 and nyanBOX firmware)
+  - SWARM (nyanBOX field firmware, browser flashing)
   - CK42X PassVault (Flipper Zero field vault)
   - stingBEE (T-Dongle C5 BadUSB research)
   - StingerSearch (OSINT workbench)
