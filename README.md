@@ -6,7 +6,7 @@
 
 <p align="center">
   offensive security tooling · firmware · agentic systems<br/>
-  20 years U.S. Air Force Security Forces. Retired, building in the open.<br/>
+  20-year Air Force retiree, now building in the open.<br/>
   <em>gold on black. sting once.</em>
 </p>
 
@@ -33,7 +33,7 @@
 
 ## the hive
 
-I build hardware-native offensive tools, OSINT workbenches, and the agentic systems that run them. Flipper Zero, ESP32, LilyGO: if it has a radio or a USB port, it's probably on my bench. Two decades of Air Force Security Forces turned into a software engineering habit, and this account is the proof-of-work ledger. If it's public here, it ran somewhere first.
+I build hardware-native offensive tools, OSINT workbenches, and the agentic systems that run them. Flipper Zero, ESP32, LilyGO: if it has a radio or a USB port, it's probably on my bench. Before CK42X: two decades of Air Force service, building internal workflow tools for operational teams. Now the ledger is public. If it's here, it ran somewhere first.
 
 Everything here is for authorized testing, research, and education. Sting once, with permission.
 
@@ -59,23 +59,6 @@ Everything here is for authorized testing, research, and education. Sting once, 
 | [**VoiceRefine**](https://github.com/lordbuffcloud/VoiceRefine) | Voice-to-clipboard with AI polish. MCP server for Claude Code, Gemini CLI, Codex CLI. | `Python` `MCP` `CLI` |
 | [**DopeFlipper**](https://github.com/lordbuffcloud/bruce-dopeflipper) | DopeWars-style game for Bruce firmware on LilyGO T-Embed. | `JavaScript` `Bruce` `LilyGO` |
 | [**Bowlytics**](https://github.com/lordbuffcloud/bowlytics-app) | Bowling analytics with AI-powered coaching and data-driven performance tracking. | `HTML` `Analytics` `AI coaching` |
-
-## proof of work (while serving)
-
-Internal tools built and deployed for Department of Defense operations during 20 years in uniform. None are public repos. All were real production software used by real teams.
-
-| Tool | What it solves |
-|---|---|
-| **StatusBoard** | Integrated ops dashboard. Readiness, scheduling, and AI chat in one view. |
-| **WANG** | Award nomination workflow. Timelines, board assignments, scoring. |
-| **SF-SCHEDULE** | Shift rotation and personnel scheduling matrix. |
-| **EC-QC** | Adaptive quiz platform with spaced repetition and leaderboards. |
-| **Data Turnaround** | Entry/exit logging with pattern analytics and visualization. |
-| **RAM Tracker** | Resource allocation and monthly distribution management. |
-| **GenAI Proxy** | Local AI integration layer for SharePoint applications. |
-| **SharePoint Migration** | Cross-site content migration with permission handling. |
-
-TypeScript, Next.js, Python, SharePoint. Shipped for operational teams, not for a portfolio.
 
 ## stack
 
@@ -115,7 +98,7 @@ identity:
   name: Cris King
   handle: lordbuffcloud
   location: Ohio, USA
-  background: 20-year USAF retiree, Security Forces to software engineering
+  background: software engineer, 20-year Air Force retiree
   status: building civilian proof-of-work under CK42X
 
 building:
